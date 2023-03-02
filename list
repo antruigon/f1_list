@@ -1,0 +1,97 @@
+{
+	"name": "F1 DAZN",
+    "author": "Antonix",
+    "image": "https://i.imgur.com/YmlWZS0.png",
+    "info": "Lista organizada por ARG con la mayoría de canales buscados en internet y otros sacados de otra lista IPTV",
+    "url": "https://raw.githubusercontent.com/antruigon/daznf1_iptv_private/main/dazn_f1_iptv?token=GHSAT0AAAAAAB7CQQSFAEBZ7T74I6GLBR56Y77XJHQ",
+    "groups": [	
+        {
+            "name": "Ultm. versión 03/03/2023",
+           "image": "https://i.imgur.com/yCUf6vB.png",
+           "info": "última versión actualizada el 03/03/2023",
+           "stations": []
+        }, 
+        {
+            "name": "Canales extraídos de otra lista",
+            "image": "https://i.imgur.com/86S840t.png",
+            "info": "",
+            "stations": [                  
+                {
+                    "name": "DAZN F1 (4K)",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8",
+                    "userAgent" : ""
+                }
+            ]
+            
+        },
+        {
+            "name": "Canales propios",
+            "image": "https://i.imgur.com/dELyQGj.jpg",
+            "info": "",
+            "stations": [                  
+                {
+                    "name": "DAZN F1 1",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://cdn.spmr.tv:8080/8d5k1t/video.m3u8?token=ZKF89T31BF",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "DAZN F1 2",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url" : "http://tribaliptv.com:8080/Gustavo/123456/4930",
+                    "userAgent": ""
+                },
+                {
+                    "name": "DAZN F1 3 (SD)",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url" : "http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69765",
+                    "userAgent": ""
+                },
+                {
+                    "name": "DAZN F1 4 (HD)",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url" : "http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69766",
+                    "userAgent": ""
+                },
+                {
+                    "name": "DAZN F1 5 (HD)",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url" : "http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69767",
+                    "userAgent": ""
+                },
+                {
+                    "name": "DAZN F1 6 (4K)",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url" : "http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/69768",
+                    "userAgent": ""
+                },
+                {
+                    "name": "DAZN F1 7 (SD)",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url" : "http://349799140408165257.stonehuge.xyz:80/play/vb08080/3469765/165257.ts",
+                    "userAgent": ""
+                },
+                {
+                    "name": "DAZN F1 8 (HD)",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url" : "http://349799140408165419.stonehuge.xyz:80/play/vb08080/3469765/165419.ts",
+                    "userAgent": ""
+                },
+                {
+                    "name": "DAZN F1 9 (FHD)",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url" : "http://349799140408165418.stonehuge.xyz:80/play/vb08080/3469765/165418.ts",
+                    "userAgent": ""
+                },
+                {
+                    "name": "DAZN F1 10 (HVEC)",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url" : "http://349799140408318564.stonehuge.xyz:80/play/vb08080/3469765/318564.ts",
+                    "userAgent": ""
+                }
+            ]
+            
+        }
+    ]
+}
