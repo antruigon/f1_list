@@ -93,8 +93,8 @@
                 {
                     "name": "DAZN F1 11",
                     "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-                    "url":"http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8",
-                    "userAgent" : ""
+                    "url":"https://v2.fullhdmatch.us/live/dazn-f1/",
+                    "isHost" : "true"
                  }
             ]
             
