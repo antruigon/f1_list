@@ -109,7 +109,31 @@
 			        "image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
                      "url": "https://watchtvchh.xyz/channel/ch018001.php", 
 			        "isHost":"true"  	 
-               }
+               },
+               {
+                    "name": "DAZN F1 TEST1",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://bgapp.live/play/gorda-344.php?c=1181&f=.m3u8|user-agent=damx",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "DAZN F1 TEST2",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1143419",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "DAZN F1 TEST3",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://fxorexworld.com:8080/HKfdHZZTCh/9NiJOfVDIc/1109",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "DAZN F1 TEST4",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"https://srv1.exyu.cc:443/live/stevica/stevica1234/1370.m3u8",
+                    "userAgent" : ""
+                }
             ]
             
         },
