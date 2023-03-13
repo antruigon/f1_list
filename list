@@ -133,6 +133,12 @@
                     "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
                     "url":"https://srv1.exyu.cc:443/live/stevica/stevica1234/1370.m3u8",
                     "userAgent" : ""
+                },
+                {
+                    "name": "DAZN F1 TEST4",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://bgapp.live/play/gorda-311.php?c=1181&f=.m3u8|user-agent=damx",
+                    "userAgent" : ""
                 }
             ]
             
