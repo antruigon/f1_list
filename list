@@ -98,6 +98,62 @@
                  }
             ]
             
+        },
+        {
+            "name": "KODI",
+            "image": "https://i.imgur.com/rohMWNo.png",
+            "info": "",
+            "stations": [                  
+                {
+                    "name": "1",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://fxorexworld.com:8080/iQbs1rdiyr/gHDZPJl50g/1109",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "2",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://conecciontvonline.work:8080/infest84/uCyNvDhrWkrg/346",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "3",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1143419",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "4",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3094",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "5 (4K)",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3093",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "6",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53028",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "7",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/839|user-agent=R3dHard3.1XzY",
+                    "userAgent" : ""
+                },
+                {
+                    "name": "8",
+                    "image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+                    "url":"http://s2.smartersapp.net/US2474KMoV/PA4K247SeR/840|user-agent=R3dHard3.1XzY",
+                    "userAgent" : ""
+                }
+            ]
+            
         }
     ]
 }
